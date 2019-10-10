@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity(),
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        cameraButton.setOnClickListener { _ ->
+        cameraButton.setOnClickListener {
             val takePhotoIntent = Intent(MediaStore.ACTION_IMAGE_CAPTURE)
             if (takePhotoIntent.resolveActivity(packageManager) != null) {
                 val values = ContentValues()
