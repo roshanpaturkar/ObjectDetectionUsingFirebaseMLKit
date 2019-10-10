@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103649199343",
+    "firebase_url": "https://objectdetector-dc8c4.firebaseio.com",
+    "project_id": "objectdetector-dc8c4",
+    "storage_bucket": "objectdetector-dc8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103649199343:android:0c064d1b194e7f8349871a",
+        "android_client_info": {
+          "package_name": "roshan.paturkar.com.objectdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103649199343-qsj62dcqcd6r54nuc0092glqnpai83f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roshan.paturkar.com.objectdetector",
+            "certificate_hash": "d2da2257d53a6dbac6fbf875fdffb28db8bcce37"
+          }
+        },
+        {
+          "client_id": "103649199343-t9kl65q3qovunt5mfoa1e4483reaq05l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHREbzWd25RE2eLpf4ENL8bODbcrbtLgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103649199343-t9kl65q3qovunt5mfoa1e4483reaq05l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
